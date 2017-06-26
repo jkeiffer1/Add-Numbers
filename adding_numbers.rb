@@ -1,9 +1,9 @@
-def n
+#def n
 	n = 1
-end
+#end
 
-def x
+#def x
 	x = 2
-end
+#end
 
 puts "#{n + x}"
