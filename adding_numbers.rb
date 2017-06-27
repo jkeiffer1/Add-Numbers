@@ -1,16 +1,6 @@
-#def n
-#	n = 1
-#end
-
-#def x
-#	x = 2
-#end
-
-#puts "#{n + x}"
-
-def add(num1,num2)
+def add(num1,num2) #flexible  and arguement.
 	puts num1 + num2
 end
 
-add(8,7)
+add(8,7) # calls function with more flexible than previous iterations.
 
